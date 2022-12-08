@@ -1,18 +1,10 @@
 ### Hi there 👋
+### My name is Ali Aghadadashi
+### I am currently working as AI & Process engineer at Fanavarn_Sharif company
+### M.Sc Energy Engineering at Sharif University of Technology
+### B.Sc Chemical Engineering at Azarbaijan Shahid Madani University
+### I am currently working on ( Decreasing fuel consumption of Power Plants - Predicting TRA of EV batteries )
 
-<!--
-**aliagh11/aliagh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as AI & Process engineer at Fanavaran_Sarif company
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliagh11&show_icons=true&theme=radical)
