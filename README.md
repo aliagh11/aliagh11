@@ -13,4 +13,4 @@ Python  C#  MATLAB
 Git COLAB ASPEN 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliagh11&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliagh11&show_icons=true&theme=radical&show_icons=true)
