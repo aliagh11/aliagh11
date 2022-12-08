@@ -1,12 +1,14 @@
-Hey there!  my name is Ali Aghadadashi 
+Hey there! ✋
 
-I am currently working as AI & Process engineer at Fanavarn_Sharif company
+my name is Ali Aghadadashi 👷‍♂️
 
-### Education 
+I am currently working as AI & Process engineer at Fanavarn_Sharif company 
+
+### Education 🧑‍🎓
 - M.Sc Energy Engineering at Sharif University of Technology
 - B.Sc Chemical Engineering at Azarbaijan Shahid Madani University
 
-### Projects
+### Projects 💻
 I am currently working on some projects like 
 - Optimizing fuel consumption of power plants using ANN and GA
 - Predicting EVs battery temperature and abnormality detection in temperature increase
