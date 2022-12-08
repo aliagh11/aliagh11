@@ -5,6 +5,12 @@
 ### B.Sc Chemical Engineering at Azarbaijan Shahid Madani University
 ### I am currently working on ( Decreasing fuel consumption of Power Plants - Predicting TRA of EV batteries )
 
+🤝 Connect with me!
+LinkedIn GitHub GMail
+👨‍💻 programming languages
+Python  C#  MATLAB 
+🛠️ tools
+Git COLAB ASPEN 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliagh11&show_icons=true&theme=radical)
