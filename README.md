@@ -2,16 +2,21 @@ Hey there! ✋
 
 my name is Ali Aghadadashi 👷‍♂️
 
-I am currently working as AI & Process engineer at Fanavarn_Sharif company 
+### Work Experience
+- R&D Manager at SuperFrost co.
+- R&D Engineer at SuperFrost co.
+- Programmer at Fanavaran Sharif co.
 
 ### Education 🧑‍🎓
 - M.Sc Energy Engineering at Sharif University of Technology
 - B.Sc Chemical Engineering at Azarbaijan Shahid Madani University
 
 ### Projects 💻
-I am currently working on some projects like 
-- Optimizing fuel consumption of power plants using ANN and GA
-- Predicting EVs battery temperature and abnormality detection in temperature increase
+I worked on some projects like 
+- Developing GUIs for thermodynamic analysis of refrigeration cycles 
+- Designing and manufacturing of commercial freezers and refrigerators
+- Predicting EVs battery temperature and abnormality detection in temperature increase using LSTM Neural Networks
+- Modeling and optimization of energy systems
 
 
 ## :handshake: Connect with me!
