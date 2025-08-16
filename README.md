@@ -1,15 +1,15 @@
 Hey there! ✋
 
-my name is Ali Aghadadashi 👷‍♂️
+My name is Ali Aghadadashi 👷‍♂️
 
 ### Work Experience
-- R&D Manager at SuperFrost co.
-- R&D Engineer at SuperFrost co.
-- Programmer at Fanavaran Sharif co.
+- R&D Manager at SuperFrost Co.
+- R&D Engineer at SuperFrost Co.
+- Junior AI Researcher at Fanavaran Sharif Co.
 
 ### Education 🧑‍🎓
-- M.Sc Energy Engineering at Sharif University of Technology
-- B.Sc Chemical Engineering at Azarbaijan Shahid Madani University
+- M.Sc. Energy Systems Engineering at Sharif University of Technology
+- B.Sc. Chemical Engineering at Azarbaijan Shahid Madani University
 
 ### Fields of Interest 
 - Optimization / Artificial Intelligence
@@ -19,9 +19,10 @@ my name is Ali Aghadadashi 👷‍♂️
 ### Projects 💻
 I worked on some projects like 
 - Modeling and optimization of energy systems
+- Biofuels Supply Chain Modeling and Optimization Considering Climatic Constraints
 - Developing GUIs for thermodynamic analysis of refrigeration cycles 
-- Designing and manufacturing of commercial freezers and refrigerators
-- Predicting EVs battery temperature and abnormality detection in temperature increase using LSTM Neural Networks
+- 3D Designing and manufacturing of commercial freezers and refrigerators
+- Predicting EV battery temperature and abnormality detection in temperature increase using LSTM Neural Networks
 
 
 
