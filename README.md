@@ -11,12 +11,18 @@ my name is Ali Aghadadashi 👷‍♂️
 - M.Sc Energy Engineering at Sharif University of Technology
 - B.Sc Chemical Engineering at Azarbaijan Shahid Madani University
 
+### Fields of Interest 🧑‍🎓
+- Optimization / Artificial Intelligence
+- Energy Systems Modeling
+- Mathematical Programming
+
 ### Projects 💻
 I worked on some projects like 
+- Modeling and optimization of energy systems
 - Developing GUIs for thermodynamic analysis of refrigeration cycles 
 - Designing and manufacturing of commercial freezers and refrigerators
 - Predicting EVs battery temperature and abnormality detection in temperature increase using LSTM Neural Networks
-- Modeling and optimization of energy systems
+
 
 
 ## :handshake: Connect with me!
