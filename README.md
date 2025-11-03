@@ -14,16 +14,19 @@ My name is Ali Aghadadashi 👷‍♂️
 ### Fields of Interest 
 - Optimization / Artificial Intelligence
 - Energy Systems Modeling
-- Mathematical Programming
+- Stochastic Programming / Uncertainty Assessment
+- Refrigeration Cycles Optimization
+- Exergy Analysis
 
 ### Projects 💻
 I worked on some projects like 
-- Modeling and optimization of energy systems
+- Modeling and Multi Objective Optimization of District Multi-Energy Systems
+- Predicting EV battery temperature and abnormality detection in temperature increase using LSTM Neural Networks
+- Reducing CO2 Emissions from Power Plants using ANN+GA Framework
 - Biofuels Supply Chain Modeling and Optimization Considering Climatic Constraints
+- Developing MATLAB-CPLEX Framework for Optimization of Mathematical Problems with Min/Max Objective Functions Using Revised-CPLEX
 - Developing GUIs for thermodynamic analysis of refrigeration cycles 
 - 3D Designing and manufacturing of commercial freezers and refrigerators
-- Predicting EV battery temperature and abnormality detection in temperature increase using LSTM Neural Networks
-
 
 
 ## :handshake: Connect with me!
