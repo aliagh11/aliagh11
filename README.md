@@ -21,8 +21,8 @@ My name is Ali Aghadadashi 👷‍♂️
 ### Projects 💻
 I worked on some projects like 
 - Modeling and Multi Objective Optimization of District Multi-Energy Systems
-- Predicting EV battery temperature and abnormality detection in temperature increase using LSTM Neural Networks
-- Reducing CO2 Emissions from Power Plants using ANN+GA Framework
+- Predicting Heat Pumps Energy Consumption Using LSTM 
+- Integrated Physics-ANN Multi-Objective Modeling and Optimization of a Solar Thermal-Driven Adsorption Refrigeration System Using NSGA-II
 - Biofuels Supply Chain Modeling and Optimization Considering Climatic Constraints
 - Developing MATLAB-CPLEX Framework for Optimization of Mathematical Problems with Min/Max Objective Functions Using Revised-CPLEX
 - Developing GUIs for thermodynamic analysis of refrigeration cycles 
